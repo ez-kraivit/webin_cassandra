@@ -10,7 +10,6 @@ tsconfig.json
 /debug.log
 test/
 package-lock.json
-index.js
 # Created by https://www.toptal.com/developers/gitignore/api/osx,java,macos,linux,windows,intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=osx,java,macos,linux,windows,intellij
 
