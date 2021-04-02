@@ -6,6 +6,7 @@ dist/
 test/
 src/
 tsconfig.json
+
 /debug.log
 test/
 package-lock.json
